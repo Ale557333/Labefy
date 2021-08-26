@@ -41,9 +41,8 @@ A ideia central deste projeto é realizar uma integração com a API **Labefy**,
 
 ## 🎼 API utilizada
 
-- [Link API](http://spoti4.future4.com.br/1.mp3)
+- [Link Documentação API](https://documenter.getpostman.com/view/7549981/SztBc8eT?version=latest)
 
-Você pode escolher entre 100 músicas que separamos, só ir trocando o nome do arquivo na URL.
 
 
 ## 🚀 Tecnologias utilizadas
