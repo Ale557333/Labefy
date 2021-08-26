@@ -13,6 +13,7 @@
 
 - [Descrição](#-descrição-do-projeto)
 - [Como acessar o projeto](#-como-acessar-o-projeto)
+- [Documentação API](#-API-utilizada)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
@@ -36,7 +37,12 @@ A ideia central deste projeto é realizar uma integração com a API **Labefy**,
 
 ## 🌎 Como acessar o projeto
 
-- [Link do surge](https://ale-music-labefy.surge.sh/)
+- [Link do surge](https://labefy-ale-johnson.surge.sh/)
+
+## 🎼 API utilizada
+
+- [Link Documentação API](https://documenter.getpostman.com/view/7549981/SztBc8eT?version=latest)
+
 
 
 ## 🚀 Tecnologias utilizadas
@@ -53,7 +59,7 @@ O projeto foi desenvolvido usando as seguintes tecnologias:
 Primeiro instale o [Git](https://git-scm.com/), [Node.jS](https://nodejs.org/pt-br/download/) + [npm](https://www.npmjs.com/get-npm)
 ```bash
 # Clonar o repositório
-git clone hhttps://github.com/Ale557333/Labefy.git
+git clone https://github.com/future4code/Johnson
 
 # Entrar no diretório
 cd labefy
