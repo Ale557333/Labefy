@@ -37,7 +37,7 @@ A ideia central deste projeto é realizar uma integração com a API **Labefy**,
 
 ## 🌎 Como acessar o projeto
 
-- [Link do surge](http://naughty-growth.surge.sh/)
+- [Link do surge](https://labefy-ale-johnson.surge.sh/)
 
 ## 🎼 API utilizada
 
