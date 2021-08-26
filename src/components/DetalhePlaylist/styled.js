@@ -4,7 +4,7 @@ export const ContainerDetalhes = styled.div`
 display: flex;
 flex-direction: column;
 align-items: center;
-overflow: hidden;
+overflow: auto;
 
 h1{
     color:#F7E2FD;
