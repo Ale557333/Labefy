@@ -13,7 +13,7 @@
 
 - [Descrição](#-descrição-do-projeto)
 - [Como acessar o projeto](#-como-acessar-o-projeto)
-- [Link API](#-API-utilizada)
+- [Documentação API](#-API-utilizada)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
