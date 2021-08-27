@@ -21,7 +21,7 @@
 
 ## 🖋 Descrição do projeto
 
-A ideia central deste projeto é realizar uma integração com a API **Labefy**, que permite o gerenciamento básico de playlists de músicas
+A ideia central deste projeto é realizar uma integração com a API **Labefy** [Link Documentação API](https://documenter.getpostman.com/view/7549981/SztBc8eT?version=latest), que permite o gerenciamento básico de playlists de músicas
 
 -   O usuário deve ser capaz de criar uma playlist de músicas. Para isso, ele só precisa passar um nome. Não podem existir playlists com o mesmo nome.
 
