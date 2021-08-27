@@ -1,14 +1,6 @@
 
 #  🎵 Labefy
 
-![image](https://user-images.githubusercontent.com/71138743/130374856-62e442a3-19a4-4852-ace2-a0f0a5a504b1.png)
-![image](https://user-images.githubusercontent.com/71138743/130374901-fffbc171-71ca-4750-a384-17a8c16beaf6.png)
-![image](https://user-images.githubusercontent.com/71138743/130374915-152c5833-8dd8-4ba3-b150-27241b67ac59.png)
-![image](https://user-images.githubusercontent.com/71138743/130374948-2e46e2e8-7237-48bf-a982-b712b4a395cc.png)
-
----
-
-
 # Índice
 
 - [Descrição](#-descrição-do-projeto)
@@ -16,6 +8,13 @@
 - [Documentação API](#-API-utilizada)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
+
+
+---
+
+
+![image](https://user-images.githubusercontent.com/71138743/130374856-62e442a3-19a4-4852-ace2-a0f0a5a504b1.png)
+
 
 ---
 
